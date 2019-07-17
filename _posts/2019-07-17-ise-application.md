@@ -16,7 +16,7 @@ ISE stands for **I**nternational **S**chool of **E**ngineering, and is basically
 
 Each major has a different number of seats. For the Early Admission round, there are a total of 165 seats available across all majors.
 
-> NANO: 40, AERO: 20, ICE: 45, ADME: 30, AI: 30
+* NANO: 40, AERO: 20, ICE: 45, ADME: 30, AI: 30
 
 ## Admission criteria
 As of the 2019 academic year, the [admission criteria](http://www.ise.eng.chula.ac.th/document/Admission/Admission_Criteria_2019.pdf) are as follows - passing criteria in (brackets), what I took is *italicized*:
