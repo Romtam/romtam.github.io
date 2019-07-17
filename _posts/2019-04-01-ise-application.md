@@ -3,9 +3,9 @@ title: A Basic Guide to ISE Admission
 date: 2019-04-01 00:00:00
 ---
 
-###### Note: This blog post is backdated. It was written in July 2019.
+##### Note: This blog post is backdated. It was written in July 2019.
 ## An overview of ISE
-ISE stands for __I__nternational __S__chool of __E__ngineering, and is basically the English program of the Engineering faculty at Chulalongkorn University. As of writing, there are 5 majors to choose from. Contrary to the regular (Thai) program, students choose their preferred major during the admission process, rather than choosing after the first year of studies. The majors are (in alphabetical order):
+ISE stands for **I**nternational **S**chool of **E**ngineering, and is basically the English program of the Engineering faculty at Chulalongkorn University. As of writing, there are 5 majors to choose from. Contrary to the regular (Thai) program, students choose their preferred major during the admission process, rather than choosing after the first year of studies. The majors are (in alphabetical order):
 
 * ADME (Automotive Design and Manufacturing Engineering)
 * AERO (Aerospace Engineering)
@@ -37,4 +37,4 @@ I will write about my experience with standarized tests in a separate post.
 ## Applying to ISE
 The application process is done (mostly) online. Firstly, you will need to register on the admission website, which then lets you fill in required information for your application. You do not have to fill in everything in one sitting, as there exists a "Save" button. Subsequently, you will submit the application via a "Submit" button on the webiste (meaning you can't edit your application afterward), and you will also have to print a PDF for physical submission at the ISE office, along with a 1,000 baht fee.
 
-### To be continued
+*[To be continued]*
