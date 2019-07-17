@@ -41,6 +41,9 @@ Not included above are absolute minimum scores (lower than passing scores). In o
 
 I will write about my experience with standarized tests in a separate post.
 
+## Admission Rounds
+For the 2018-2019 academic year, there has been two admission rounds, as is the norm for most international programs at Chula. The **Early Admission** round runs from early December to late January, while the **Regular Admission** round happened from early March to late April.
+
 ## Scholarships
 It looks like 100% and 50% [scholarships](http://www.ise.eng.chula.ac.th/news/detail?id=1182&gid=1-008-002-002) are being automatically granted to first year students who are ranked highly in each admission round, details as follows:
 * **Early Admission (more competitive)**: 100% scholarships to top 15 admitted students (not counting students who did not enroll)
