@@ -1,7 +1,9 @@
 ---
 title: A Basic Guide to ISE Admission
-date: 2019-07-17 20:00:00
+date: 2019-07-17 23:59:00
 ---
+
+Hello! My name is Romtam, and I got admitted to ISE at Chulalongkorn University in the Early Admission Round (top 25). In this blog post, I aim to share my experience with the admission process along with some tips here and there.
 
 ## An overview of ISE
 ISE stands for **I**nternational **S**chool of **E**ngineering, and is basically the English program of the Engineering faculty at Chulalongkorn University. As of writing, there are 5 majors to choose from. Contrary to the regular (Thai) program, students choose their preferred major during the admission process, rather than choosing after the first year. In alphabetical order, the majors are:
@@ -57,7 +59,7 @@ The most important point is the GPA requirement, which means that you can easily
 ## Applying to ISE
 The application process is done (mostly) online. Firstly, you will need to register on the admission website, which then lets you fill in required information for your application. Note that you do not have to fill in everything in one sitting since you can save your progress. Subsequently, when you finish, submit the application via a "Submit" button on the website (you can't edit your application afterwards), and print a PDF of your application from the website for physical submission at the ISE office, along with a 1,000 baht fee.
 
-## Interview
+## The Interview
 From my experience, the interview list includes everyone who submitted the application and passed the admission criteria (419 students for the Early Admission round). All interviews are conducted over the period of a single day (morning and afternoon), from 9am afterwards. The time of your interview is determined by your applicant number. If your scheduled time is in the morning, you have to register before 9am. If it is in the afternoon, you have to register before 1pm.
 
 (**Tip:** Be the first people to create an account on the admission website on the first day for an earlier interview time!)
@@ -113,8 +115,23 @@ Moreover, there is no certainty that you will be able to transfer to your prefer
 
 *** 
 
+## Taking tests, admission schedule
+* **My testtaking schedule** (all taken once except Physics)
+   * **May 2018**: SAT
+   * **May 2018**: IELTS
+   * **June 2018**: SAT Subject Physics (#1)
+   * **November 2018**: SAT Subject Physics (#2), Chemistry, Math Level 2
+* **Admissions** (early admission)
+   * **14 December 2018**: Hand in printed application to ISE office
+   * **27 December 2018**: Interview list released
+   * **4 January 2019**: Interview at ISE
+   * **14 January**: Program selection list (ranking) released
+   * **15 January**: Major selection on website
+   * **17 January**: Program selection at Centennial Engineering Buiding, ISE
+
+
 ## Useful resources
-A very useful page on Facebook is [Learning Café](https://www.facebook.com/LearningCafebydom9914), which is a page about international program admissions for Thai universities, especially Chula or Thammasat. There also exists a Facebook group ran by the aforementioned page which you can find posts such as secondhand books for sale, or discussions about universities.
+A very useful page on Facebook is [Learning Café](https://www.facebook.com/LearningCafebydom9914), which is a page about international program admissions for Thai universities, especially at Chulalongkorn or Thammasat. There also exists a Facebook group ran by the aforementioned page which you can find posts such as secondhand books for sale, or relevant discussions about various international programs.
 
 Here are some resources related to ISE admissions that would be useful for reference:
 
