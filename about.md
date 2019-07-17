@@ -2,7 +2,6 @@
 title: About me
 ---
 
-## Chulalongkorn University
-### Freshman - Engineering
+Engineering student at Chulalongkorn University. Currently a freshman.
 
-Hi.
+Find me on Instagram: [https://instagram.com/sonromtam](@sonromtam)
