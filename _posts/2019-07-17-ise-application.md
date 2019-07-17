@@ -55,8 +55,6 @@ Most if not all electronic devices (mobile phones, laptops, etc.) are not allowe
 
 You should be able to answer the first question before your interview. Think of your own story that makes you unique. Why are you applying for ISE? What do you aspire to be in the future?
 
-![interview registration](/images/interview-day.jpg)
-
 ## Program selection
 Now that you've taken your interview, the next step is to wait until the program selection list is released on the ISE website. It is this document which tells you whether you made it or not, and what your ranking is. If your name is in the document, then congratulations, you have secured a place for yourself!
 
@@ -68,8 +66,6 @@ You will need to print two copies from the website and bring them on program sel
 The program selection day is another important day, as it is the day when you get to know which major you end up getting. This takes place at Chula: all eligible students register at 8:30-9:00. After 9:00, the highest ranked student gets called into the program selection room, where they are informed of the selection result. Obviously, higher ranked students are called earlier than lower ranked students. In addition, in waiting rooms there are live broadcasts of remaining seats for each major where you can see the number of available seats in each major go down to zero.
 
 Once your name is called and you get informed of your major, you are done with the process! The next step is just paying the program fee (currently 84,000 baht/term).
-
-![waiting room](/images/waiting-zone.jpg)
 
 ## Useful resources (thanks to Learning Cafe)
 * [Round 1 admission scores](https://www.facebook.com/LearningCafebydom9914/posts/985085548343687)
