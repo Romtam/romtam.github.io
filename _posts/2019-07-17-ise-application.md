@@ -3,7 +3,7 @@ title: A Basic Guide to ISE Admission
 date: 2019-07-17 23:59:00
 ---
 
-Hello! My name is Romtam, and I got admitted to ISE at Chulalongkorn University in the Early Admission Round (top 25). In this blog post, I aim to share my experience with the admission process along with some tips here and there.
+Hello! My name is Romtam, and I got admitted to ISE at Chulalongkorn University in the Early Admission Round, placing in the top 25 students. In this blog post, I aim to share my experience with the admission process along with some tips here and there.
 
 ## An overview of ISE
 ISE stands for **I**nternational **S**chool of **E**ngineering, and is basically the English program of the Engineering faculty at Chulalongkorn University. As of writing, there are 5 majors to choose from. Contrary to the regular (Thai) program, students choose their preferred major during the admission process, rather than choosing after the first year. In alphabetical order, the majors are:
@@ -14,7 +14,7 @@ ISE stands for **I**nternational **S**chool of **E**ngineering, and is basically
 * NANO (Nano Engineering)
 * ROBOTICS AI (Robotics and Artificial Intelligence Engineering)
 
-Each major has a different number of seats. For the Early Admission round, there are a total of 165 seats available across all majors.
+Each major has a different number of seats. For the Early Admission round, there are a total of 165 seats available across all majors, with the distribution as follows:
 
 * NANO: 40, AERO: 20, ICE: 45, ADME: 30, AI: 30
 
@@ -86,7 +86,7 @@ You should be able to answer the first question before your interview. Think of 
 ## Program selection
 Now that you've taken your interview, the next step is to wait until the program selection list is released on the ISE website. It is this document which tells you whether you made it or not, and what your ranking is. If your name is in the document, then congratulations, you have secured a place for yourself in ISE!
 
-After the list is released, you will have to login to the admission website again during a specified time period (next day after list release for me) to select your preferred major from first choice to fifth choice. *[For me: AERO > ICE > AI > NANO > ADME]*
+After the list is released, you will have to login to the admission website again during a specified time period (next day after list release for me) to select your preferred major from first choice to fifth choice. *[**For myself**: AERO > ICE > AI > NANO > ADME]*
 
 You will need to print two copies from the website and bring them on the program selection day.
 
@@ -107,7 +107,9 @@ There exists a good justification for forfeiting your seat and applying again: g
 
 One question that gets asked a lot around is whether one should "risk" their seat in the Early Admission round for a second chance in the next round. If you ask me this question, I think it can be worth it. The number of accepted applicants for the second round is not very different than the first, and you should also consider the fact that many high-score applicants have confirmed their first round seat.
 
-Comparing the scores between the Early Admission round and the Regular Admission round (links below), the Regular Admission round turned out to be less competitive than the first round. Whatever you decide, you should definitely take this comparison into account.
+Comparing the scores between the Early Admission round and the Regular Admission round, the Regular Admission round turned out to be less competitive than the first round. You can see the scores for yourself - I have included links at the end of this post.
+
+Whatever you decide, you should definitely take this comparison into account. And if you forfeit your seat, money aside, why not go take another round of IELTS if you are willing to put in the study? Improving your English score, even by just 0.5, can make a huge difference (moving up tens in ranking) as it did in my round.
 
 ### Transferring majors
 Even though on paper, you can transfer your major between the 1st and 2nd year subject to a few conditions, personally I do not recommend it for several reasons. There exists a high possibility that you will be stuck with students from your major that you dislike, from learning to activities, rather than getting to know students from your preferred major.
@@ -140,11 +142,12 @@ Here are some resources related to ISE admissions that would be useful for refer
 
 * [Round 1 admission scores](https://www.facebook.com/LearningCafebydom9914/posts/985085548343687)
 * [Round 2 admission scores](https://www.facebook.com/LearningCafebydom9914/posts/1038408659678042)
+  * ***Note:** These scores are self-reported by applicants via a Google Form, then put together by the admin of the page. Nevertheless, they are highly likely to be reliable.*
 * [Approximate score requirement to select any major](https://www.facebook.com/LearningCafebydom9914/posts/1043175002534741)
-* [Comprehensive interview writeup on dek-d (in Thai)](https://www.dek-d.com/board/view/3906604/)
+* [Comprehensive interview writeup on dek-d (in Thai), by stephanieiiz](https://www.dek-d.com/board/view/3906604/)
 * [Another thorough interview writeup (in Thai), by Captain Ronnie](https://www.dek-d.com/board/view/3900324/)
 
 ## Any questions?
-Thank you for reading up to this point. If you have any questions about anything related to admissions, or if you think this post lacks something, please do not hesitate to contact me.
+Thank you for reading up to this point. I really hope I put everything forward clearly and you can learn something from my experience. If you have any questions about anything related to admissions, or if you think I should add something to this post, please do not hesitate to contact me.
 
 Until next time,
