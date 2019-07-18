@@ -44,7 +44,7 @@ I will write about my experience with standarized tests in a separate post.
 ## Admission Rounds
 For the 2018-2019 academic year, there has been two admission rounds, as is the norm for most international programs at Chula. The **Early Admission** round runs from early December to late January, while the **Regular Admission** round happened from early March to late April.
 
-## Scholarships
+## Scholarships for 1st year students
 It looks like 100% and 50% [scholarships](http://www.ise.eng.chula.ac.th/news/detail?id=1182&gid=1-008-002-002) are being automatically granted to first year students who are ranked highly in each admission round, details as follows:
 * **Early Admission (more competitive)**: 100% scholarships to top 15 admitted students (not counting students who did not enroll)
 * **Regular Admission**: 50% scholarships to top 10 admitted students
@@ -55,7 +55,7 @@ However, they come with [conditions](http://www.ise.eng.chula.ac.th/current-stud
    * 3.25+ for 50% scholarships
 2. Must work at least 8 hours per week for ISE Office 
 
-The most important point is the GPA requirement, which means that you can easily lose the scholarship after the first year if your grade point average is not high enough.
+The most important point is the GPA requirement, which means that you can easily lose the scholarship after the first year if your grade point average does not meet the requirements.
 
 ***
 
@@ -75,13 +75,13 @@ Most if not all electronic devices (mobile phones, laptops, smart watches, etc.)
 
 The first question that I got (or maybe anyone, really), was "Please introduce yourself." Also note that the interview is conducted in English, not Thai.
 
-Also, it's worth noting that you are not required to bring your portfolio to the interview, however you can show it to your interviewers. For me, the interviewing staff took a quick glance at my portfolio and asked a question or two about what I did.
+Also, it's worth noting that you are not required to bring your portfolio to the interview, however you can show it to your interviewers if you made one. For me, the interviewing staff took a quick glance at my portfolio and asked a question or two about what I did.
 
 ### Example interview questions
 * Introduce yourself.
 * Which major do you want to learn?
-* [Looking at application] Have you studied abroad?
-* Have you read the curriculum?
+* [Looking at application papers] Have you studied abroad?
+* Have you read the curriculum of [desired major]?
 
 You should be able to answer the first question before your interview. Think of your own story that makes you unique. Why are you applying for ISE? What do you aspire to be in the future?
 
@@ -118,7 +118,7 @@ Even though on paper, you can transfer your major between the 1st and 2nd year s
 
 Moreover, there is no certainty that you will be able to transfer to your preferred major. This is exacarbated even more if your grades are not as good as others who also wish to transfer.
 
-***Note:** The above section is my opinion, and my opinion only. You should not take this as a fact.*
+***Note:** The above section is only my opinion. You should not take this as a fact.*
 
 *** 
 
