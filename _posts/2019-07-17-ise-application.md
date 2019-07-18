@@ -3,7 +3,7 @@ title: A Basic Guide to ISE Admission
 date: 2019-07-17 23:59:00
 ---
 
-Hello! My name is Romtam, and I got admitted to ISE at Chulalongkorn University in the Early Admission Round, placing in the top 25 students. In this blog post, I aim to share my experience with the admission process along with some tips here and there.
+Hello! My name is Romtam, and I got admitted to ISE at Chulalongkorn University in the Early Admission Round, placing in the top 25. In this blog post, I aim to share my experience with the admission process along with some tips here and there.
 
 ## An overview of ISE
 ISE stands for **I**nternational **S**chool of **E**ngineering, and is basically the English program of the Engineering faculty at Chulalongkorn University. As of writing, there are 5 majors to choose from. Contrary to the regular (Thai) program, students choose their preferred major during the admission process, rather than choosing after the first year. In alphabetical order, the majors are:
@@ -148,6 +148,6 @@ Here are some resources related to ISE admissions that would be useful for refer
 * [Another thorough interview writeup (in Thai), by Captain Ronnie](https://www.dek-d.com/board/view/3900324/)
 
 ## Any questions?
-Thank you for reading up to this point. I really hope I put everything forward clearly and you can learn something from my experience. If you have any questions about anything related to admissions, or if you think I should add something to this post, please do not hesitate to contact me.
+Thank you for reading up to this point. I really hope I put everything forward clearly and you can learn something from my experience. If you have any questions about anything related to admissions, or if you think I should add something to this post, please do not hesitate to contact me (both Thai or English is fine).
 
 Until next time,
