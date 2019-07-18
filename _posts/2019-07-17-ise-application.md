@@ -55,7 +55,7 @@ However, they come with [conditions](http://www.ise.eng.chula.ac.th/current-stud
    * 3.25+ for 50% scholarships
 2. Must work at least 8 hours per week for ISE Office 
 
-The most important point is the GPA requirement, which means that you can easily lose the scholarship after the first year if your grades are not high enough.
+The most important point is the GPA requirement, which means that you can easily lose the scholarship after the first year if your grade point average is not high enough.
 
 ***
 
@@ -75,6 +75,8 @@ Most if not all electronic devices (mobile phones, laptops, smart watches, etc.)
 
 The first question that I got (or maybe anyone, really), was "Please introduce yourself." Also note that the interview is conducted in English, not Thai.
 
+Also, it's worth noting that you are not required to bring your portfolio to the interview, however you can show it to your interviewers. For me, the interviewing staff took a quick glance at my portfolio and asked a question or two about what I did.
+
 ### Example interview questions
 * Introduce yourself.
 * Which major do you want to learn?
@@ -93,7 +95,7 @@ You will need to print two copies from the website and bring them on the program
 ### On program selection day
 [Document about program selection day on ISE website](http://www.ise.eng.chula.ac.th/document/Admission/Steps_to_Confirm_Program_2019.pdf)
 
-The program selection day is another important day, as it is the day when you get to know which major you end up getting. This takes place at the university. All eligible students have to register at 8:30-9:00. After 9:00, the highest ranked student gets called into the program selection room, where they are informed of their selection results. Obviously, higher ranked students are called earlier than lower ranked students. In addition, in waiting rooms there are live broadcasts of remaining seats for each major where you can see the number of available seats in each major go down as each person is called.
+The program selection day is another important day, as it is the day when you get to know which major you end up getting. This takes place at the university. All eligible students have to register at 8:30-9:00. After 9:00, the highest ranked student gets called into the program selection room, where they are informed of their selection results. Obviously, higher ranked students are called earlier than lower ranked students. In addition, in waiting rooms there are live broadcasts of remaining seats for each major, shown on a webpage, where you can see the number of available seats in each major go down as each person is called and has their major confirmed.
 
 How the selection process works is that at your turn, your pre-selected choices will be looked at. If your top major of choice is full, your second choice will be considered. If your second choice is also full, then move to the third choice, and vice versa, until there is a seat.
 
