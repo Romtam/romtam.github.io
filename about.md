@@ -2,10 +2,8 @@
 title: About me
 ---
 
-Engineering student at Chulalongkorn University. Currently a freshman.
+Engineering student at Chulalongkorn University. Currently (no longer) a freshman.
 
-~~Find me on Instagram: [@sonromtam](https://instagram.com/sonromtam)~~
+Apart from engineering stuff, I am into photography and I also can do some graphic design.
 
-I am in the Learning Cafe Facebook group, for now you can find me via there.
-
-Oh, and I speak Thai too. Whatever works for you.
+I also have been learning Japanese. ２０１９年１２月から、私は日本語を勉強しています。この言語が私の三番目言語。まだ上手じゃあありません。
